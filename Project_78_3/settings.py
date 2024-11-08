@@ -100,7 +100,7 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
+ALLOWED_HOSTS = ['Project_78_3.onrender.com','127.0.0.1']
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
